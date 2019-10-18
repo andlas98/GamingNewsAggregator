@@ -1,6 +1,8 @@
 const express = require('express')
 const app = express()
+// Change channel's value to...change the channel
+var channel = 3030;
 
 app.use(express.static('public'));
 
-app.listen(3000, () => console.log("Runnin' on port 3000..."))
+app.listen(channel, () => console.log("Runnin' hot data on port " + channel + "..."))
