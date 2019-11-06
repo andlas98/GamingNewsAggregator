@@ -5,4 +5,4 @@ var channel = 3030;
 
 app.use(express.static('public'));
 
-app.listen(channel, () => console.log("Runnin' hot data on port " + channel + "..."))
+app.listen(channel, () => console.log("Runnin' hot data on port " + channel + "...\n Run http://localhost:"+channel+"/ to access site."))
