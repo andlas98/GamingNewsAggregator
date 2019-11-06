@@ -9,10 +9,11 @@ My inspiration for this site also came from a college friend of mine who is crea
 **I look at these for motivation:**
 
 Aaron's post: https://www.linkedin.com/posts/activity-6547520966463901696-s3-D
-His Website: freshfinder.live
+
+Aaron's website: freshfinder.live
 
 **Basic Functions**
-* Potential Languages Required: HTML, CSS, Bootstrap, JS,
+* Potential Languages Required: HTML, CSS, Bootstrap, JS, React, Express
 * Provide links to various articles related to gaming (a la HackerNews), but personally curated ( thus, not a forum)
 * Grab from multiple popular VG sites (Destructoid, Rock Paper Shotgun, Game Informer) and lesser knowns (Siliconera, Eurogamer)
 * Should load content from the past week (to keep things minimalistic)
